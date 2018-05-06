@@ -1,7 +1,5 @@
 ## Installation
 
-> **Flarum is currently in beta and should not be used in production.** It is being developed openly on GitHub. Check out the [Roadmap](http://flarum.org/roadmap) to follow along with our progress.
-
 You must have SSH access to a server with **PHP 5.5+** and **MySQL 5.5+**, and install [Composer](https://getcomposer.org).
 
 ```
